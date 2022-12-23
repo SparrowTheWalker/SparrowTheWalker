@@ -15,4 +15,4 @@
 
 
 - 🌱 Pursuing BSc. Business and Information Technology
-- 📈 Upcoming Data Scientist
+- 📈 Javascript Enthusiast 
