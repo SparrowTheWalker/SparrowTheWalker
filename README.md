@@ -15,4 +15,4 @@
 
 
 - 🌱 Pursuing BSc. Business and Information Technology
-- 📈 Javascript Enthusiast 
+- 📈 JavaScript Enthusiast 
