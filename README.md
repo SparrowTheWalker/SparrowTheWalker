@@ -9,8 +9,8 @@
 
 <!-- <div align="center">
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=sparrowthewalker&theme=gotham&hide_border=true"  alt=""/> -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sparrowthewalker&show_icons=true&cache_seconds=86400&theme=gotham" alt=""/> 
-</div>
+<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sparrowthewalker&show_icons=true&cache_seconds=86400&theme=gotham" alt=""/> 
+</div> -->
 
 
 
