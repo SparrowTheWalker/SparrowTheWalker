@@ -14,5 +14,4 @@
 
 
 
-- 🌱 Pursuing BSc. Business and Information Technology
-- 📈 Android Developer 
+- 🌱 Front End Dev
